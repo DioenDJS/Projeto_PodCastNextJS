@@ -28,8 +28,12 @@ os podcasts serão fornecidos através de um arquivo json para nossa API.
 > - Typescript 
 > - @types/react 
 > - @types/node 
+>
+> ```npm install typescript @types/react @types/node -D```
 
->```npm install typescript @types/react @types/node -D```
+> - Sass
+>
+> ``npm install sass``
 
 
 Ao final a aplicação estará disponível em `http://localhost:3333`.
