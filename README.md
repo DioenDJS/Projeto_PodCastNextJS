@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Projeto_Chat" >
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Projeto_PodCastNextJS" >
 </p>
 
 
