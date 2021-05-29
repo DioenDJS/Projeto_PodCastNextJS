@@ -35,6 +35,17 @@ os podcasts serão fornecidos através de um arquivo json para nossa API.
 >
 > ``npm install sass``
 
+## Fonts utilizadas no projeto
+
+
+- [Lexend - 500 600](https://fonts.google.com/specimen/Lexend?query=Lexend)
+- [Inter - 400](https://fonts.google.com/specimen/Inter?query=inter)
+
+```
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter&family=Lexend:wght@500;600&display=swap" rel="stylesheet">
+```
+
 
 Ao final a aplicação estará disponível em `http://localhost:3333`.
 
