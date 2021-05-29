@@ -20,8 +20,10 @@ os podcasts serão fornecidos através de um arquivo json para nossa API.
 
 ## Como executar
 
-- Clone o repositório
-- Rode o `npm run dev` para iniciar a aplicação.
+- Clone o repositório `https://github.com/DioenDJS/Projeto_PodCastNextJS.git`.
+- Install as dependências com o comando `npm install`.
+- Rode o `npm run dev` para iniciar a aplicação.<>
+Ao final a aplicação estará disponível em `http://localhost:3333`.
 
 ## Dependências do Projetos
 
@@ -47,5 +49,4 @@ os podcasts serão fornecidos através de um arquivo json para nossa API.
 ```
 
 
-Ao final a aplicação estará disponível em `http://localhost:3333`.
 
