@@ -1,4 +1,4 @@
-<h1 align="center">Projeto podcast "PodCastNextjs"</h1>
+<h1 align="center"><img src="./public/favicon.png"> Projeto podcast "PodCastNextjs"</h1>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05">
@@ -10,7 +10,9 @@
 
 - [Node.js](https://nodejs.org/en/)
 - [NextJS](https://nextjs.org/)
-- [typescript](https://www.typescriptlang.org/)
+- [typescript](https://www.typescriptlang.org/) <img align="center" alt="Diovane-Linkedin" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width:100%;" />
+- [Sass]() <img align="center" alt="Diovane-Linkedin" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="max-width:100%;" />
+
 
 
 ## Projeto
@@ -33,7 +35,7 @@ Ao final a aplicação estará disponível em `http://localhost:3333`.
 >
 > ```npm install typescript @types/react @types/node -D```
 
-> - Sass
+> - Sass 
 >
 > ``npm install sass``
 
