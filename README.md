@@ -15,19 +15,19 @@
 
 
 
-## Projeto
+## Projeto :computer:
 
 Este projeto e uma pagina de um podcast com paginas estaticas providas pelo Nextjs,
 os podcasts serão fornecidos através de um arquivo json para nossa API.
 
-## Como executar
+## Como executar :gear:
 
 - Clone o repositório `https://github.com/DioenDJS/Projeto_PodCastNextJS.git`.
 - Install as dependências com o comando `npm install`.
 - Rode o `npm run dev` para iniciar a aplicação.<>
 Ao final a aplicação estará disponível em `http://localhost:3333`.
 
-## Dependências do Projetos
+## Dependências do Projetos :card_index_dividers:
 
 > - Typescript 
 > - @types/react 
@@ -39,7 +39,7 @@ Ao final a aplicação estará disponível em `http://localhost:3333`.
 >
 > ``npm install sass``
 
-## Fonts utilizadas no projeto
+## Fonts utilizadas no projeto :page_with_curl:
 
 
 - [Lexend - 500 600](https://fonts.google.com/specimen/Lexend?query=Lexend)
