@@ -6,7 +6,7 @@
 </p>
 
 
-## Tecnologias Utilizadas no projeto
+## Tecnologias Utilizadas no projeto :construction:
 
 - [Node.js](https://nodejs.org/en/) <img align="center" alt="Diovane-Linkedin" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;" />
 - [NextJS](https://nextjs.org/) <img align="center" alt="Diovane-Linkedin" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width:100%;" />
