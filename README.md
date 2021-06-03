@@ -11,8 +11,8 @@
 - [Node.js](https://nodejs.org/en/) <img align="center" alt="Diovane-Linkedin" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;" />
 - [NextJS](https://nextjs.org/) <img align="center" alt="Diovane-Linkedin" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width:100%;" />
 - [typescript](https://www.typescriptlang.org/) <img align="center" alt="Diovane-Linkedin" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width:100%;" />
-- [Sass]() <img align="center" alt="Diovane-Linkedin" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="max-width:100%;" />
-
+- [Sass](https://sass-lang.com/) <img align="center" alt="Diovane-Linkedin" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="max-width:100%;" />
+- [date-fns](https://date-fns.org/) <img align="center" alt="Diovane-Linkedin" height="25" width="20" src="https://date-fns.org/static/7ceafe855b131d457fe7de810ed31e0f.svg" style="max-width:100%;" />
 
 
 ## Projeto :computer:
@@ -38,6 +38,10 @@ Ao final a aplicação estará disponível em `http://localhost:3333`.
 > - Sass 
 >
 > ``npm install sass``
+
+> - date-fns 
+>
+> ``npm install date-fns`` 
 
 ## Fonts utilizadas no projeto :page_with_curl:
 
