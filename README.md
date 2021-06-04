@@ -25,7 +25,7 @@ os podcasts serão fornecidos através de um arquivo json para nossa API.
 - Clone o repositório `https://github.com/DioenDJS/Projeto_PodCastNextJS.git`.
 - Install as dependências com o comando `npm install`.
 - Rode o `npm run dev` para iniciar a aplicação.<>
-Ao final a aplicação estará disponível em `http://localhost:3333`.
+Ao final a aplicação estará disponível em `http://localhost:3000`.
 
 ## Dependências do Projetos :card_index_dividers:
 
@@ -53,6 +53,8 @@ Ao final a aplicação estará disponível em `http://localhost:3333`.
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter&family=Lexend:wght@500;600&display=swap" rel="stylesheet">
 ```
-
+## Aprendizado:
+> - O que aprendi neste projeto foi trabalhar melhor com NextJS e sempre aprendo nas semanas da Rocketseat
+>é como estruturar meu projeto, esta foi aprimeira vez que trabalho com manipulação de ``controles de player`` 
 
 
