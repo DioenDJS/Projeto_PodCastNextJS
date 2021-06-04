@@ -5,7 +5,7 @@
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Projeto_PodCastNextJS" >
 </p>
 
-
+<img src="NLW05.fw.png" alt="imagem do projeto">
 ## Tecnologias Utilizadas no projeto :construction:
 
 - [Node.js](https://nodejs.org/en/) <img align="center" alt="Diovane-Linkedin" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;" />
