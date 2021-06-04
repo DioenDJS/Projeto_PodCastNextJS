@@ -15,6 +15,9 @@
 - [Sass](https://sass-lang.com/) <img align="center" alt="img Sass" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="max-width:100%;" />
 - [date-fns](https://date-fns.org/) <img align="center" alt="img date-fns" height="25" width="20" src="https://date-fns.org/static/7ceafe855b131d457fe7de810ed31e0f.svg" style="max-width:100%;" />
 - [json-server](https://github.com/typicode/json-server) 
+- [Axios](https://github.com/axios/axios) 
+
+https://axios-http.com/
 
 ## Projeto :computer:
 
@@ -25,7 +28,7 @@ os podcasts serão fornecidos através de um arquivo json para nossa API.
 
 - Clone o repositório `https://github.com/DioenDJS/Projeto_PodCastNextJS.git`.
 - Install as dependências com o comando `npm install`.
-- Rode o `npm run dev` para iniciar a aplicação.<>
+- Rode o `npm run dev` para iniciar a aplicação.<br />
 Ao final a aplicação estará disponível em `http://localhost:3000`.
 
 ## Dependências do Projetos :card_index_dividers:
@@ -47,6 +50,10 @@ Ao final a aplicação estará disponível em `http://localhost:3000`.
 > - json-server
 >
 > ``npm install json-server -D``
+
+> - axios
+>
+> ``npm install axios``
 
 ## Fonts utilizadas no projeto :page_with_curl:
 
