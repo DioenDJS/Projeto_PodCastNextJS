@@ -4,13 +4,16 @@ import ptBR from 'date-fns/locale/pt-BR';
 import { api } from '../services/api';
 import { convertDurationToTimeString } from '../utils/convertDurationToTimeString';
 
+import styles from './home.module.scss';
+
 type Episode = {
   id: string;
   title: string;
   thumbnail: string;
   members:string;
-  published_at: string;
-  duration: string;
+  publishedAt: string;
+  duration: number;
+  durationAsString: string;
   description: string;
   url: string;
 
@@ -23,9 +26,10 @@ type HomeProps = {
 
 export default function Home(props: HomeProps) {
   return (
-    <div>
-      <h1>Index</h1>
-      <p>{JSON.stringify(props.episodes)}</p>
+    <div className={styles.homepage}>
+      <section className={styles.latesE}>
+
+      </section>
     </div>
   );
 };
