@@ -30,7 +30,19 @@
                 width: 6rem;
                 height: 6rem;
                 border-radius:1rem;
-                //tempo que parei 47minutos aula 3
+            }
+
+            .episodeDetails{
+                flex: 1;
+                margin-left: 1rem;
+                a{
+                    display: block;
+                    color: var(--gray-800);
+                    font-family: Lexend, sans-serif;
+                    font-weight: 600;
+                    text-decoration: none;
+                    line-height: 1.4rem;
+                }
             }
         }
     }
