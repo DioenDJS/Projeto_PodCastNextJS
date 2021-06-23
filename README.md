@@ -17,7 +17,6 @@
 - [json-server](https://github.com/typicode/json-server) 
 - [Axios](https://github.com/axios/axios) 
 
-https://axios-http.com/
 
 ## Projeto :computer:
 

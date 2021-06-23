@@ -42,12 +42,14 @@ export default function Home({latestEpisodes, allEpisodes}: HomeProps) {
                   alt={episode.title} 
                   objectFit="cover"
                 />
+
                 <div className={styles.episodeDetails}>
                   <a href="">{episode.title}</a>
                   <p>{episode.members}</p>
                   <span>{episode.publishedAt}</span>
                   <span>{episode.durationAsString}</span>
                 </div>
+                
                 <button type="button">
                   <img src="/play-green.svg" alt="tocar episódio" />
                 </button>
@@ -56,6 +58,7 @@ export default function Home({latestEpisodes, allEpisodes}: HomeProps) {
           })}
         </ul>
       </section>
+      
       <section className={styles.allEpisodes}>
         <h2>Todos episódios</h2>
         <table cellSpacing={0}>
